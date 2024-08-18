@@ -1,0 +1,1 @@
+Il main.py contiene un esempio di risoluzione del problema di controllo ottimo e rbd_algorithms.py è la versione modificata , con algoritmo RNEA funzionantte, dell'equivalente file nella libreria ADAM
